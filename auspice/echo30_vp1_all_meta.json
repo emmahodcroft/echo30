@@ -1,0 +1,201 @@
+{
+  "annotations": {
+    "VP1": {
+      "end": 378,
+      "start": 0,
+      "strand": 1
+    },
+    "nuc": {
+      "end": 378,
+      "start": 0,
+      "strand": 1
+    }
+  },
+  "author_info": {
+    "Simmonds P, Broberg E, and Benschop K": {
+      "n": 1262,
+      "title": "Unpublished"
+    }
+  },
+  "color_options": {
+    "country": {
+      "key": "country",
+      "legendTitle": "country",
+      "menuItem": "country",
+      "type": "discrete"
+    },
+    "group": {
+      "color_map": [
+        [
+          "Group1",
+          "#ffe119"
+        ],
+        [
+          "Group2",
+          "#f58231"
+        ],
+        [
+          "Group4",
+          "#3cb44b"
+        ],
+        [
+          "Group5",
+          "#911eb4"
+        ],
+        [
+          "Group6",
+          "#e6194B"
+        ],
+        [
+          "Group7",
+          "#4363d8"
+        ],
+        [
+          "Group8",
+          "#f032e6"
+        ]
+      ],
+      "key": "group",
+      "legendTitle": "group",
+      "menuItem": "group",
+      "type": "discrete"
+    },
+    "gt": {
+      "key": "genotype",
+      "legendTitle": "Genotype",
+      "menuItem": "genotype",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    },
+    "region": {
+      "color_map": [
+        [
+          "europe",
+          "#E39B39"
+        ]
+      ],
+      "key": "region",
+      "legendTitle": "region",
+      "menuItem": "region",
+      "type": "discrete"
+    },
+    "samptype": {
+      "key": "samptype",
+      "legendTitle": "samptype",
+      "menuItem": "samptype",
+      "type": "discrete"
+    }
+  },
+  "filters": [
+    "country"
+  ],
+  "geo": {
+    "country": {
+      "austria": {
+        "latitude": 47.2000338,
+        "longitude": 13.199959
+      },
+      "belgium": {
+        "latitude": 50.6407351,
+        "longitude": 4.66696
+      },
+      "bulgaria": {
+        "latitude": 42.6073975,
+        "longitude": 25.4856617
+      },
+      "czech_republic": {
+        "latitude": 49.8175,
+        "longitude": 15.473
+      },
+      "denmark": {
+        "latitude": 56.0,
+        "longitude": 10.0
+      },
+      "finland": {
+        "latitude": 63.2467777,
+        "longitude": 25.9209164
+      },
+      "france": {
+        "latitude": 46.603354,
+        "longitude": 1.8883335
+      },
+      "germany": {
+        "latitude": 51.0834196,
+        "longitude": 10.4234469
+      },
+      "greece": {
+        "latitude": 39.0,
+        "longitude": 22.0
+      },
+      "hungary": {
+        "latitude": 47.0,
+        "longitude": 20.0
+      },
+      "iceland": {
+        "latitude": 64.9841821,
+        "longitude": -18.1059012
+      },
+      "ireland": {
+        "latitude": 52.865196,
+        "longitude": -7.9794598
+      },
+      "italy": {
+        "latitude": 42.6384261,
+        "longitude": 12.674297
+      },
+      "lithuania": {
+        "latitude": 55.41667,
+        "longitude": 24.0
+      },
+      "luxembourg": {
+        "latitude": 49.61167,
+        "longitude": 6.13
+      },
+      "netherlands": {
+        "latitude": 52.3702,
+        "longitude": 4.8952
+      },
+      "norway": {
+        "latitude": 64.574131,
+        "longitude": 11.5270102892
+      },
+      "slovenia": {
+        "latitude": 45.8133113,
+        "longitude": 14.4808369
+      },
+      "spain": {
+        "latitude": 40.0028028,
+        "longitude": -4.0031039
+      },
+      "sweden": {
+        "latitude": 59.6749712,
+        "longitude": 14.5208584
+      },
+      "ukraine": {
+        "latitude": 49.4871968,
+        "longitude": 31.2718321
+      },
+      "united_kingdom": {
+        "latitude": 54.542713,
+        "longitude": -2.384858
+      }
+    }
+  },
+  "maintainer": [
+    "Emma Hodcroft, Richard Neher, Robert Dyrdak, Jan Albert",
+    "http://neherlab.org"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "title": "Phylodynamics of Echovirus 30",
+  "updated": "26 Jun 2019",
+  "virus_count": 1137
+}
