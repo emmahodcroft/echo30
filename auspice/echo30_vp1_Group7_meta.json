@@ -1,0 +1,93 @@
+{
+  "annotations": {
+    "VP1": {
+      "end": 378,
+      "start": 0,
+      "strand": 1
+    },
+    "nuc": {
+      "end": 378,
+      "start": 0,
+      "strand": 1
+    }
+  },
+  "author_info": {
+    "Simmonds P, Broberg E, and Benschop K": {
+      "n": 1262,
+      "title": "Unpublished"
+    }
+  },
+  "color_options": {
+    "country": {
+      "key": "country",
+      "legendTitle": "country",
+      "menuItem": "country",
+      "type": "discrete"
+    },
+    "group": {
+      "color_map": [
+        [
+          "Group7",
+          "#4363d8"
+        ]
+      ],
+      "key": "group",
+      "legendTitle": "group",
+      "menuItem": "group",
+      "type": "discrete"
+    },
+    "gt": {
+      "key": "genotype",
+      "legendTitle": "Genotype",
+      "menuItem": "genotype",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    },
+    "region": {
+      "color_map": [
+        [
+          "europe",
+          "#E39B39"
+        ]
+      ],
+      "key": "region",
+      "legendTitle": "region",
+      "menuItem": "region",
+      "type": "discrete"
+    },
+    "samptype": {
+      "key": "samptype",
+      "legendTitle": "samptype",
+      "menuItem": "samptype",
+      "type": "discrete"
+    }
+  },
+  "filters": [
+    "country"
+  ],
+  "geo": {
+    "country": {
+      "greece": {
+        "latitude": 39.0,
+        "longitude": 22.0
+      }
+    }
+  },
+  "maintainer": [
+    "Emma Hodcroft, Richard Neher, Robert Dyrdak, Jan Albert",
+    "http://neherlab.org"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "title": "Phylodynamics of Echovirus 30",
+  "updated": "26 Jun 2019",
+  "virus_count": 12
+}

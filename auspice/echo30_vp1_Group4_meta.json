@@ -1,0 +1,121 @@
+{
+  "annotations": {
+    "VP1": {
+      "end": 378,
+      "start": 0,
+      "strand": 1
+    },
+    "nuc": {
+      "end": 378,
+      "start": 0,
+      "strand": 1
+    }
+  },
+  "author_info": {
+    "Simmonds P, Broberg E, and Benschop K": {
+      "n": 1262,
+      "title": "Unpublished"
+    }
+  },
+  "color_options": {
+    "country": {
+      "key": "country",
+      "legendTitle": "country",
+      "menuItem": "country",
+      "type": "discrete"
+    },
+    "group": {
+      "color_map": [
+        [
+          "Group4",
+          "#3cb44b"
+        ]
+      ],
+      "key": "group",
+      "legendTitle": "group",
+      "menuItem": "group",
+      "type": "discrete"
+    },
+    "gt": {
+      "key": "genotype",
+      "legendTitle": "Genotype",
+      "menuItem": "genotype",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    },
+    "region": {
+      "color_map": [
+        [
+          "europe",
+          "#E39B39"
+        ]
+      ],
+      "key": "region",
+      "legendTitle": "region",
+      "menuItem": "region",
+      "type": "discrete"
+    },
+    "samptype": {
+      "key": "samptype",
+      "legendTitle": "samptype",
+      "menuItem": "samptype",
+      "type": "discrete"
+    }
+  },
+  "filters": [
+    "country"
+  ],
+  "geo": {
+    "country": {
+      "czech_republic": {
+        "latitude": 49.8175,
+        "longitude": 15.473
+      },
+      "denmark": {
+        "latitude": 56.0,
+        "longitude": 10.0
+      },
+      "greece": {
+        "latitude": 39.0,
+        "longitude": 22.0
+      },
+      "netherlands": {
+        "latitude": 52.3702,
+        "longitude": 4.8952
+      },
+      "norway": {
+        "latitude": 64.574131,
+        "longitude": 11.5270102892
+      },
+      "sweden": {
+        "latitude": 59.6749712,
+        "longitude": 14.5208584
+      },
+      "ukraine": {
+        "latitude": 49.4871968,
+        "longitude": 31.2718321
+      },
+      "united_kingdom": {
+        "latitude": 54.542713,
+        "longitude": -2.384858
+      }
+    }
+  },
+  "maintainer": [
+    "Emma Hodcroft, Richard Neher, Robert Dyrdak, Jan Albert",
+    "http://neherlab.org"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "title": "Phylodynamics of Echovirus 30",
+  "updated": "26 Jun 2019",
+  "virus_count": 114
+}

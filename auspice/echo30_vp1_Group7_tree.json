@@ -1,0 +1,699 @@
+{
+  "aa_muts": {},
+  "attr": {
+    "clock_length": 0.001,
+    "country": "greece",
+    "country_confidence": {
+      "greece": 1.0
+    },
+    "country_entropy": -1.000088900581841e-12,
+    "date": "2012-03-20",
+    "div": 0,
+    "group": "Group7",
+    "group_confidence": {
+      "Group7": 1.0
+    },
+    "group_entropy": -1.000088900581841e-12,
+    "num_date": 2012.2183099820757
+  },
+  "branch_length": 0.001,
+  "children": [
+    {
+      "aa_muts": {},
+      "attr": {
+        "clock_length": 4.693564424807645e-05,
+        "country": "greece",
+        "country_confidence": {
+          "greece": 1.0
+        },
+        "country_entropy": -1.000088900581841e-12,
+        "date": "2012-03-23",
+        "div": 1.382644568950582e-19,
+        "group": "Group7",
+        "group_confidence": {
+          "Group7": 1.0
+        },
+        "group_entropy": -1.000088900581841e-12,
+        "num_date": 2012.2267398390532
+      },
+      "branch_length": 4.694e-05,
+      "children": [
+        {
+          "aa_muts": {
+            "VP1": [
+              "K1X",
+              "K2X"
+            ]
+          },
+          "attr": {
+            "accession": "KC309430",
+            "authors": "Simmonds P, Broberg E, and Benschop K",
+            "clock_length": 0.0015119268926709686,
+            "country": "greece",
+            "country_confidence": {
+              "greece": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2012-07-01",
+            "div": 0.0025545229250459847,
+            "group": "Group7",
+            "group_confidence": {
+              "Group7": 1.0
+            },
+            "group_entropy": -1.000088900581841e-12,
+            "num_date": 2012.4982888434376,
+            "raw_date": "2012-06-XX",
+            "region": "europe",
+            "samptype": "faecal"
+          },
+          "branch_length": 0.00151193,
+          "clade": 0,
+          "muts": [
+            "A1N",
+            "A2N",
+            "A3N",
+            "A4N",
+            "A5N",
+            "A6N",
+            "C249T"
+          ],
+          "strain": "KC309430",
+          "yvalue": 12
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 0.0006619964869970202,
+            "country": "greece",
+            "country_confidence": {
+              "greece": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2012-05-06",
+            "div": 0.0025557560652132694,
+            "group": "Group7",
+            "group_confidence": {
+              "Group7": 1.0
+            },
+            "group_entropy": -1.000088900581841e-12,
+            "num_date": 2012.3456374443683
+          },
+          "branch_length": 0.000662,
+          "children": [
+            {
+              "aa_muts": {
+                "VP1": [
+                  "K1X",
+                  "K2X",
+                  "I8M"
+                ]
+              },
+              "attr": {
+                "accession": "KC309428",
+                "authors": "Simmonds P, Broberg E, and Benschop K",
+                "clock_length": 0.0008499304056739515,
+                "country": "greece",
+                "country_confidence": {
+                  "greece": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2012-07-01",
+                "div": 0.005113048443218492,
+                "group": "Group7",
+                "group_confidence": {
+                  "Group7": 1.0
+                },
+                "group_entropy": -1.000088900581841e-12,
+                "num_date": 2012.4982888434376,
+                "raw_date": "2012-06-XX",
+                "region": "europe",
+                "samptype": "faecal"
+              },
+              "branch_length": 0.00084993,
+              "clade": 1,
+              "muts": [
+                "A1N",
+                "A2N",
+                "A3N",
+                "A4N",
+                "A5N",
+                "A6N",
+                "T24G"
+              ],
+              "strain": "KC309428",
+              "yvalue": 11
+            },
+            {
+              "aa_muts": {
+                "VP1": [
+                  "K1X",
+                  "K2X"
+                ]
+              },
+              "attr": {
+                "accession": "KC309429",
+                "authors": "Simmonds P, Broberg E, and Benschop K",
+                "clock_length": 0.0008499304056739515,
+                "country": "greece",
+                "country_confidence": {
+                  "greece": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2012-07-01",
+                "div": 0.005111511182281439,
+                "group": "Group7",
+                "group_confidence": {
+                  "Group7": 1.0
+                },
+                "group_entropy": -1.000088900581841e-12,
+                "num_date": 2012.4982888434376,
+                "raw_date": "2012-06-XX",
+                "region": "europe",
+                "samptype": "faecal"
+              },
+              "branch_length": 0.00084993,
+              "clade": 2,
+              "muts": [
+                "A1N",
+                "A2N",
+                "A3N",
+                "A4N",
+                "A5N",
+                "A6N",
+                "G39A"
+              ],
+              "strain": "KC309429",
+              "yvalue": 10
+            }
+          ],
+          "clade": 3,
+          "muts": [
+            "A207G"
+          ],
+          "strain": "NODE_0000009",
+          "yvalue": 10.5
+        }
+      ],
+      "clade": 4,
+      "muts": [],
+      "strain": "NODE_0000008",
+      "yvalue": 11.25
+    },
+    {
+      "aa_muts": {},
+      "attr": {
+        "clock_length": 0.0004559097698088244,
+        "country": "greece",
+        "country_confidence": {
+          "greece": 1.0
+        },
+        "country_entropy": -1.000088900581841e-12,
+        "date": "2012-04-19",
+        "div": 0.002557313138973072,
+        "group": "Group7",
+        "group_confidence": {
+          "Group7": 1.0
+        },
+        "group_entropy": -1.000088900581841e-12,
+        "num_date": 2012.300193467766
+      },
+      "branch_length": 0.00045591,
+      "children": [
+        {
+          "aa_muts": {
+            "VP1": [
+              "K1X",
+              "K2X",
+              "F94L"
+            ]
+          },
+          "attr": {
+            "accession": "KC309431",
+            "authors": "Simmonds P, Broberg E, and Benschop K",
+            "clock_length": 0.0011029527671102199,
+            "country": "greece",
+            "country_confidence": {
+              "greece": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2012-07-01",
+            "div": 0.005118376623407945,
+            "group": "Group7",
+            "group_confidence": {
+              "Group7": 1.0
+            },
+            "group_entropy": -1.000088900581841e-12,
+            "num_date": 2012.4982888434376,
+            "raw_date": "2012-06-XX",
+            "region": "europe",
+            "samptype": "faecal"
+          },
+          "branch_length": 0.00110295,
+          "clade": 5,
+          "muts": [
+            "A1N",
+            "A2N",
+            "A3N",
+            "A4N",
+            "A5N",
+            "A6N",
+            "T282A"
+          ],
+          "strain": "KC309431",
+          "yvalue": 9
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 0.0,
+            "country": "greece",
+            "country_confidence": {
+              "greece": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2012-04-19",
+            "div": 0.002557313138973072,
+            "group": "Group7",
+            "group_confidence": {
+              "Group7": 1.0
+            },
+            "group_entropy": -1.000088900581841e-12,
+            "num_date": 2012.300193467766
+          },
+          "branch_length": 0.0,
+          "children": [
+            {
+              "aa_muts": {
+                "VP1": [
+                  "K1X",
+                  "K2X"
+                ]
+              },
+              "attr": {
+                "accession": "KC309437",
+                "authors": "Simmonds P, Broberg E, and Benschop K",
+                "clock_length": 0.0006608834727131613,
+                "country": "greece",
+                "country_confidence": {
+                  "greece": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2012-06-02",
+                "div": 0.002557313138973072,
+                "group": "Group7",
+                "group_confidence": {
+                  "Group7": 1.0
+                },
+                "group_entropy": -1.000088900581841e-12,
+                "num_date": 2012.4188911706108,
+                "raw_date": "2012-06-XX",
+                "region": "europe",
+                "samptype": "faecal"
+              },
+              "branch_length": 0.00066088,
+              "clade": 6,
+              "muts": [
+                "A1N",
+                "A2N",
+                "A3N",
+                "A4N",
+                "A5N",
+                "A6N"
+              ],
+              "strain": "KC309437",
+              "yvalue": 8
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 0.0006382891425503676,
+                "country": "greece",
+                "country_confidence": {
+                  "greece": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2012-05-31",
+                "div": 0.005116187092196764,
+                "group": "Group7",
+                "group_confidence": {
+                  "Group7": 1.0
+                },
+                "group_entropy": -1.000088900581841e-12,
+                "num_date": 2012.4148331252845
+              },
+              "branch_length": 0.00063829,
+              "children": [
+                {
+                  "aa_muts": {
+                    "VP1": [
+                      "K1X",
+                      "K2X"
+                    ]
+                  },
+                  "attr": {
+                    "accession": "KC309434",
+                    "authors": "Simmonds P, Broberg E, and Benschop K",
+                    "clock_length": 2.259433016279372e-05,
+                    "country": "greece",
+                    "country_confidence": {
+                      "greece": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2012-06-02",
+                    "div": 0.005116187092196764,
+                    "group": "Group7",
+                    "group_confidence": {
+                      "Group7": 1.0
+                    },
+                    "group_entropy": -1.000088900581841e-12,
+                    "num_date": 2012.4188911706108,
+                    "raw_date": "2012-06-XX",
+                    "region": "europe",
+                    "samptype": "faecal"
+                  },
+                  "branch_length": 2.259e-05,
+                  "clade": 7,
+                  "muts": [
+                    "A1N",
+                    "A2N",
+                    "A3N",
+                    "A4N",
+                    "A5N",
+                    "A6N"
+                  ],
+                  "strain": "KC309434",
+                  "yvalue": 7
+                },
+                {
+                  "aa_muts": {
+                    "VP1": [
+                      "K1X",
+                      "K2X",
+                      "I8X"
+                    ]
+                  },
+                  "attr": {
+                    "accession": "KY986976",
+                    "authors": "Simmonds P, Broberg E, and Benschop K",
+                    "clock_length": 0.0004799073933318132,
+                    "country": "greece",
+                    "country_confidence": {
+                      "greece": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2012-07-02",
+                    "div": 0.005116187092196764,
+                    "group": "Group7",
+                    "group_confidence": {
+                      "Group7": 1.0
+                    },
+                    "group_entropy": -1.000088900581841e-12,
+                    "num_date": 2012.5010266942247,
+                    "raw_date": "2012-07-XX",
+                    "region": "europe",
+                    "samptype": "faecal"
+                  },
+                  "branch_length": 0.00047991,
+                  "clade": 8,
+                  "muts": [
+                    "A1N",
+                    "A2N",
+                    "A3N",
+                    "A4N",
+                    "A5N",
+                    "A6N",
+                    "T24N"
+                  ],
+                  "strain": "KY986976",
+                  "yvalue": 6
+                }
+              ],
+              "clade": 9,
+              "muts": [
+                "G39A"
+              ],
+              "strain": "NODE_0000005",
+              "yvalue": 6.5
+            }
+          ],
+          "clade": 10,
+          "muts": [],
+          "strain": "NODE_0000004",
+          "yvalue": 7.25
+        },
+        {
+          "aa_muts": {
+            "VP1": [
+              "I8M"
+            ]
+          },
+          "attr": {
+            "clock_length": 0.0003968776545406824,
+            "country": "greece",
+            "country_confidence": {
+              "greece": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2012-05-15",
+            "div": 0.005117728507519676,
+            "group": "Group7",
+            "group_confidence": {
+              "Group7": 1.0
+            },
+            "group_entropy": -1.000088900581841e-12,
+            "num_date": 2012.371474514803
+          },
+          "branch_length": 0.00039688,
+          "children": [
+            {
+              "aa_muts": {
+                "VP1": [
+                  "K1X",
+                  "K2X"
+                ]
+              },
+              "attr": {
+                "accession": "KC309436",
+                "authors": "Simmonds P, Broberg E, and Benschop K",
+                "clock_length": 0.00026400581817247887,
+                "country": "greece",
+                "country_confidence": {
+                  "greece": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2012-06-02",
+                "div": 0.005117728507519676,
+                "group": "Group7",
+                "group_confidence": {
+                  "Group7": 1.0
+                },
+                "group_entropy": -1.000088900581841e-12,
+                "num_date": 2012.4188911706108,
+                "raw_date": "2012-06-XX",
+                "region": "europe",
+                "samptype": "faecal"
+              },
+              "branch_length": 0.00026401,
+              "clade": 11,
+              "muts": [
+                "A1N",
+                "A2N",
+                "A3N",
+                "A4N",
+                "A5N",
+                "A6N"
+              ],
+              "strain": "KC309436",
+              "yvalue": 5
+            },
+            {
+              "aa_muts": {
+                "VP1": [
+                  "K1X",
+                  "K2X",
+                  "E59K"
+                ]
+              },
+              "attr": {
+                "accession": "KC309427",
+                "authors": "Simmonds P, Broberg E, and Benschop K",
+                "clock_length": 0.0007060751125695375,
+                "country": "greece",
+                "country_confidence": {
+                  "greece": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2012-07-01",
+                "div": 0.007677341060168276,
+                "group": "Group7",
+                "group_confidence": {
+                  "Group7": 1.0
+                },
+                "group_entropy": -1.000088900581841e-12,
+                "num_date": 2012.4982888434376,
+                "raw_date": "2012-06-XX",
+                "region": "europe",
+                "samptype": "faecal"
+              },
+              "branch_length": 0.00070608,
+              "clade": 12,
+              "muts": [
+                "A1N",
+                "A2N",
+                "A3N",
+                "A4N",
+                "A5N",
+                "A6N",
+                "G175A"
+              ],
+              "strain": "KC309427",
+              "yvalue": 4
+            },
+            {
+              "aa_muts": {
+                "VP1": [
+                  "K1X",
+                  "K2X"
+                ]
+              },
+              "attr": {
+                "accession": "KC309435",
+                "authors": "Simmonds P, Broberg E, and Benschop K",
+                "clock_length": 0.0007060751125695375,
+                "country": "greece",
+                "country_confidence": {
+                  "greece": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2012-07-01",
+                "div": 0.007674546197213425,
+                "group": "Group7",
+                "group_confidence": {
+                  "Group7": 1.0
+                },
+                "group_entropy": -1.000088900581841e-12,
+                "num_date": 2012.4982888434376,
+                "raw_date": "2012-06-XX",
+                "region": "europe",
+                "samptype": "faecal"
+              },
+              "branch_length": 0.00070608,
+              "clade": 13,
+              "muts": [
+                "A1N",
+                "A2N",
+                "A3N",
+                "A4N",
+                "A5N",
+                "A6N",
+                "C303T"
+              ],
+              "strain": "KC309435",
+              "yvalue": 3
+            },
+            {
+              "aa_muts": {
+                "VP1": [
+                  "K1X",
+                  "K2X"
+                ]
+              },
+              "attr": {
+                "accession": "KC309432",
+                "authors": "Simmonds P, Broberg E, and Benschop K",
+                "clock_length": 0.0007060751125695375,
+                "country": "greece",
+                "country_confidence": {
+                  "greece": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2012-07-01",
+                "div": 0.007674546197213425,
+                "group": "Group7",
+                "group_confidence": {
+                  "Group7": 1.0
+                },
+                "group_entropy": -1.000088900581841e-12,
+                "num_date": 2012.4982888434376,
+                "raw_date": "2012-06-XX",
+                "region": "europe",
+                "samptype": "faecal"
+              },
+              "branch_length": 0.00070608,
+              "clade": 14,
+              "muts": [
+                "A1N",
+                "A2N",
+                "A3N",
+                "A4N",
+                "A5N",
+                "A6N",
+                "C255T"
+              ],
+              "strain": "KC309432",
+              "yvalue": 2
+            },
+            {
+              "aa_muts": {
+                "VP1": [
+                  "K1X",
+                  "K2X"
+                ]
+              },
+              "attr": {
+                "accession": "KC309433",
+                "authors": "Simmonds P, Broberg E, and Benschop K",
+                "clock_length": 0.0007060751125695375,
+                "country": "greece",
+                "country_confidence": {
+                  "greece": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2012-07-01",
+                "div": 0.007677228990048262,
+                "group": "Group7",
+                "group_confidence": {
+                  "Group7": 1.0
+                },
+                "group_entropy": -1.000088900581841e-12,
+                "num_date": 2012.4982888434376,
+                "raw_date": "2012-06-XX",
+                "region": "europe",
+                "samptype": "faecal"
+              },
+              "branch_length": 0.00070608,
+              "clade": 15,
+              "muts": [
+                "A1N",
+                "A2N",
+                "A3N",
+                "A4N",
+                "A5N",
+                "A6N",
+                "A105T"
+              ],
+              "strain": "KC309433",
+              "yvalue": 1
+            }
+          ],
+          "clade": 16,
+          "muts": [
+            "T24G"
+          ],
+          "strain": "NODE_0000003",
+          "yvalue": 3.0
+        }
+      ],
+      "clade": 17,
+      "muts": [
+        "G321A"
+      ],
+      "strain": "NODE_0000010",
+      "yvalue": 6.0
+    }
+  ],
+  "clade": 18,
+  "muts": [],
+  "strain": "NODE_0000000",
+  "yvalue": 8.625
+}
