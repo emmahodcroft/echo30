@@ -1,17 +1,21 @@
 {
   "annotations": {
     "VP1": {
-      "end": 378,
+      "end": 876,
       "start": 0,
       "strand": 1
     },
     "nuc": {
-      "end": 378,
+      "end": 876,
       "start": 0,
       "strand": 1
     }
   },
   "author_info": {
+    "Genbank": {
+      "n": 139,
+      "title": "Genbank"
+    },
     "Simmonds P, Broberg E, and Benschop K": {
       "n": 1262,
       "title": "Unpublished"
@@ -37,10 +41,6 @@
         [
           "Group4",
           "#3cb44b"
-        ],
-        [
-          "Group5",
-          "#911eb4"
         ],
         [
           "Group6",
@@ -88,6 +88,12 @@
       "key": "samptype",
       "legendTitle": "samptype",
       "menuItem": "samptype",
+      "type": "discrete"
+    },
+    "source": {
+      "key": "source",
+      "legendTitle": "source",
+      "menuItem": "source",
       "type": "discrete"
     }
   },
@@ -187,7 +193,7 @@
     }
   },
   "maintainer": [
-    "Emma Hodcroft, Richard Neher, Robert Dyrdak, Jan Albert",
+    "Emma Hodcroft, Kim Benschop, Jan Albert, Richard Neher, Peter Simmonds",
     "http://neherlab.org"
   ],
   "panels": [
@@ -196,6 +202,6 @@
     "entropy"
   ],
   "title": "Phylodynamics of Echovirus 30",
-  "updated": "26 Jun 2019",
-  "virus_count": 1137
+  "updated": "28 Jun 2019",
+  "virus_count": 1272
 }
