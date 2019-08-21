@@ -17,7 +17,7 @@
       "title": "Genbank"
     },
     "Simmonds P, Broberg E, and Benschop K": {
-      "n": 1230,
+      "n": 1262,
       "title": "Unpublished"
     }
   },
@@ -98,7 +98,8 @@
     }
   },
   "filters": [
-    "country"
+    "country",
+    "source"
   ],
   "geo": {
     "country": {
@@ -129,6 +130,10 @@
       "france": {
         "latitude": 46.603354,
         "longitude": 1.8883335
+      },
+      "germany": {
+        "latitude": 51.0834196,
+        "longitude": 10.4234469
       },
       "greece": {
         "latitude": 39.0,
@@ -198,6 +203,6 @@
     "entropy"
   ],
   "title": "Phylodynamics of Echovirus 30",
-  "updated": "09 Jul 2019",
-  "virus_count": 1240
+  "updated": "21 Aug 2019",
+  "virus_count": 1271
 }
