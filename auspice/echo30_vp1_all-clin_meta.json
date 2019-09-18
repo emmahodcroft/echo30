@@ -44,27 +44,43 @@
       "color_map": [
         [
           "Group1",
-          "#ffe119"
+          "#f37210"
+        ],
+        [
+          "Group1a",
+          "#eca239"
+        ],
+        [
+          "Group1b",
+          "#ece038"
         ],
         [
           "Group2",
-          "#f58231"
-        ],
-        [
-          "Group4",
-          "#3cb44b"
-        ],
-        [
-          "Group6",
-          "#e6194B"
-        ],
-        [
-          "Group7",
-          "#4363d8"
+          "#8feb35"
         ],
         [
           "Group3",
-          "#f032e6"
+          "#07872d"
+        ],
+        [
+          "Group4a",
+          "#da22e8"
+        ],
+        [
+          "Group4b",
+          "#e62040"
+        ],
+        [
+          "Group4c",
+          "#a11215"
+        ],
+        [
+          "Group6",
+          "#2cbee9"
+        ],
+        [
+          "Group7",
+          "#4326e9"
         ]
       ],
       "key": "group",
@@ -232,6 +248,6 @@
     "entropy"
   ],
   "title": "Phylodynamics of Echovirus 30",
-  "updated": "03 Sep 2019",
+  "updated": "18 Sep 2019",
   "virus_count": 1286
 }
