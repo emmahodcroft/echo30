@@ -28,6 +28,74 @@
       "menuItem": "age",
       "type": "continuous"
     },
+    "age_range": {
+      "color_map": [
+        [
+          "0-4 yrs",
+          "#f93529"
+        ],
+        [
+          "5-14 yrs",
+          "#fb8638"
+        ],
+        [
+          "15-24 yrs",
+          "#f9c244"
+        ],
+        [
+          "25-34 yrs",
+          "#d0d554"
+        ],
+        [
+          "35-44 yrs",
+          "#96c971"
+        ],
+        [
+          "45-54 yrs",
+          "#72c5aa"
+        ],
+        [
+          "55-64 yrs",
+          "#55a1db"
+        ],
+        [
+          "65-74 yrs",
+          "#4664eb"
+        ]
+      ],
+      "key": "age_range",
+      "legendTitle": "age_range",
+      "menuItem": "age_range",
+      "type": "discrete"
+    },
+    "child_age_range": {
+      "color_map": [
+        [
+          "0-3 months",
+          "#d7191c"
+        ],
+        [
+          "4-6 months",
+          "#fdae61"
+        ],
+        [
+          "7-12 months",
+          "#ffd11a"
+        ],
+        [
+          "13-23 months",
+          "#abd9e9"
+        ],
+        [
+          ">=24 months",
+          "#6b6b6b"
+        ]
+      ],
+      "key": "child_age_range",
+      "legendTitle": "child_age_range",
+      "menuItem": "child_age_range",
+      "type": "discrete"
+    },
     "country": {
       "key": "country",
       "legendTitle": "country",
@@ -44,43 +112,23 @@
       "color_map": [
         [
           "Group1",
-          "#f37210"
-        ],
-        [
-          "Group1a",
-          "#eca239"
-        ],
-        [
-          "Group1b",
-          "#ece038"
+          "#ffe119"
         ],
         [
           "Group2",
-          "#8feb35"
+          "#f58231"
         ],
         [
           "Group3",
-          "#07872d"
+          "#f032e6"
         ],
         [
-          "Group4a",
-          "#da22e8"
-        ],
-        [
-          "Group4b",
-          "#e62040"
-        ],
-        [
-          "Group4c",
-          "#a11215"
+          "Group4",
+          "#3cb44b"
         ],
         [
           "Group6",
-          "#2cbee9"
-        ],
-        [
-          "Group7",
-          "#4326e9"
+          "#e6194B"
         ]
       ],
       "key": "group",
@@ -120,8 +168,8 @@
     },
     "samptype": {
       "key": "samptype",
-      "legendTitle": "samptype",
-      "menuItem": "samptype",
+      "legendTitle": "Sample Type",
+      "menuItem": "Sample Type",
       "type": "discrete"
     },
     "symptom": {
@@ -144,7 +192,9 @@
     "samptype",
     "hospitalised",
     "symptom",
-    "symptom_full"
+    "symptom_full",
+    "age_range",
+    "child_age_range"
   ],
   "geo": {
     "country": {
@@ -248,6 +298,6 @@
     "entropy"
   ],
   "title": "Phylodynamics of Echovirus 30",
-  "updated": "18 Sep 2019",
+  "updated": "21 Oct 2019",
   "virus_count": 1286
 }
