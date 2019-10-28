@@ -13,7 +13,7 @@
   },
   "author_info": {
     "Simmonds P, Broberg E, and Benschop K": {
-      "n": 42,
+      "n": 61,
       "title": "Unpublished"
     }
   },
@@ -37,6 +37,10 @@
         [
           "15-24 yrs",
           "#f9c244"
+        ],
+        [
+          "25-34 yrs",
+          "#d0d554"
         ],
         [
           "45-54 yrs",
@@ -182,6 +186,10 @@
         "latitude": 50.6407351,
         "longitude": 4.66696
       },
+      "bulgaria": {
+        "latitude": 42.6073975,
+        "longitude": 25.4856617
+      },
       "denmark": {
         "latitude": 56.0,
         "longitude": 10.0
@@ -231,5 +239,5 @@
   ],
   "title": "Phylodynamics of Echovirus 30 - 3D gene",
   "updated": "28 Oct 2019",
-  "virus_count": 42
+  "virus_count": 61
 }
