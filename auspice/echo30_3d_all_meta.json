@@ -12,6 +12,10 @@
     }
   },
   "author_info": {
+    "Genbank": {
+      "n": 49,
+      "title": "Genbank"
+    },
     "Simmonds P, Broberg E, and Benschop K": {
       "n": 61,
       "title": "Unpublished"
@@ -238,6 +242,6 @@
     "entropy"
   ],
   "title": "Phylodynamics of Echovirus 30 - 3D gene",
-  "updated": "28 Oct 2019",
-  "virus_count": 61
+  "updated": "05 Dec 2019",
+  "virus_count": 110
 }
